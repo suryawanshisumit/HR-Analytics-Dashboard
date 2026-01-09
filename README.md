@@ -53,4 +53,4 @@ Cost Reduction: By lowering attrition, the organization saves significant recrui
 Workforce Planning: Helps leads predict future hiring needs based on historical exit trends and department growth.
 
 6. Screenshots
-   ![HR Analytics Dashboard](dashboard.png)
+   ![HR Analytics Dashboard](dashboard.jpeg)
